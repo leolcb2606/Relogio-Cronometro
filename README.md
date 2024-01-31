@@ -1,1 +1,1 @@
-# RelogioJS
+# Relogio/Cronômetro
